@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=faede6&text=YonghunSung&animation=fadeIn" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=faede6&text=YonghunSung&animation=fadeIn&section=header" />	
 </div>
 
 <div align=center>
@@ -28,5 +28,9 @@
 	<a href="mailto:qsnm23@gmail.com">
 	<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-</div>	
+</div>
+
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=faede6&section=footer" />	
+</div>
 
